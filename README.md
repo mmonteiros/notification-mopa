@@ -33,7 +33,7 @@ Follow these steps to get the application up and running:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mmonteiros/notification-mopa/tree/main
+   git clone https://github.com/mmonteiros/notification-mopa.git
    cd your-repo
    ```
 
